@@ -3,8 +3,8 @@ React labs
 
 [Repo](https://github.com/hingham/code-sandbox)
 
-Assignments: Component Based UI
-[Code Sandbox](https://4ro208qx20.codesandbox.io/)
+Assignments: 
+* [Component Based UI Sandbox](https://4ro208qx20.codesandbox.io/)
 
 #### Modules:
 * app.js
